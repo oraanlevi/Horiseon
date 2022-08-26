@@ -34,6 +34,7 @@ Screenshot:
 ![Screenshot of the website](./assets/images/website1.png)
 ![Screenshot of the middle of website](./assets/images/website2.png)
 
+The app can be found at https://oraanlevi.github.io/Horiseon/
    
 
 # Credits
